@@ -1,0 +1,11 @@
+.seacrhForm {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.paper {
+    position: absolute;
+    width: 400px;
+    backgroundColor: ;
+    border: 2px solid #000;
+}
